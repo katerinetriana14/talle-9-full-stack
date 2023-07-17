@@ -14,7 +14,7 @@
 <img src="./Public/Images/css.png.png" alt="css"> 
 
 <h2>Punto 4</h2>
-<img src="./PUNTO-4/index.html" alt="css"> 
+<img src="./PUNTO-4/index.html" alt="punto 4"> 
 
 <h2>Link pagina Web</h2>
 <a href="https://katerinetriana14.github.io/talle-9-full-stack/"> Link pagina Web</a> 
