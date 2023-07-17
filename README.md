@@ -8,16 +8,21 @@
 <a href="https://www.figma.com/file/QDUJ3G0cRozozbcmGZHL7G/Katerine-Triana-Figma-Exercise?type=design&node-id=6%3A1246&t=NVSzBQTxOAV4UjZg-1"> Link de Figma</a> 
 
 <h2>Punto 2: HTML</h2>
-<img src="./Public/Images/html.png.png" alt="html">
+<img src="./Public/Images/html.png" alt="html"> 
 
 <h2>Punto 3: css</h2>
 <img src="./Public/Images/css.png.png" alt="css"> 
 
 <h2>Punto 4</h2>
-<img src="./PUNTO-4/index.html" alt="punto 4"> 
+<img src="./Public/Images/desarrollo-punto-4.png" alt="punto4">
+
+<h2>Punto 6</h2>
+<img src="./Public/Images/desarrollo-punto-6.png" alt="punto6">
+
 
 <h2>Punto 5</h2>
 <img src="./PUNTO-5/index.html" alt="punto 5">  
+
 
 <h2>Link pagina Web</h2>
 <a href="https://katerinetriana14.github.io/talle-9-full-stack/"> Link pagina Web</a> 
