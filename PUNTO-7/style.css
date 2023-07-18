@@ -1,0 +1,21 @@
+.cuadro {
+    background-color: #d29bfd;
+    color: white;
+    padding: 10px;
+    width: 380px;
+    text-align: left;
+    word-spacing: 10px;
+    margin: 0 auto;
+}
+
+.button {
+    padding: 10px 15px;
+    background-color: #0000FF;
+    color: white;
+    border: 1px solid #0000FF;
+}
+
+.separar {
+    padding: 5px;
+    word-spacing: 1px;
+}

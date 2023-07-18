@@ -22,5 +22,10 @@
 <h2>Punto 6</h2>
 <img src="./Public/Images/desarrollo-punto-6.png" alt="punto6">
 
+<h2>Punto 7</h2>
+<img src="./Public/Images/desarrollo-punto-7y8.png" alt="punto7y8">
+
 <h2>Link pagina Web</h2>
 <a href="https://katerinetriana14.github.io/talle-9-full-stack/"> Link pagina Web</a> 
+
+
