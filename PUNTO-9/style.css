@@ -1,0 +1,20 @@
+.styled-table {
+    border-collapse: collapse;
+    margin: 50px 50px;
+    font-size: 15px;
+    font-family: 'Jost';
+    background-color: 	#FFFF00; 
+    border: 1px solid black;
+    border-bottom: 2px dotted red;
+    border-style: dotted;
+}
+
+.encabezado {
+    align-self: center;
+    color:  #FF0000; 
+}
+
+.styled-table thead {
+    color: #FF0000;
+    font-family: 'Jost';
+}
