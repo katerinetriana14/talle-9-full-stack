@@ -13,22 +13,22 @@
 <h2>Punto 2: HTML</h2>
 <img src="./Public/Images/html.png" alt="html"> 
 
-<h2>Punto 3: css</h2>
+<h2>Punto 3: CSS</h2>
 <img src="./Public/Images/css.png.png" alt="css"> 
 
-<h2>Punto 4</h2>
+<h2>Punto 4: TITULOS</h2>
 <img src="./Public/Images/desarrollo-punto-4.png" alt="punto4">
 
-<h2>Punto 5</h2>
+<h2>Punto 5 ESTILOS DE TEXTO</h2>
 <img src="./Public/Images/desarrollo-punto-5.png" alt="punto5">
 
-<h2>Punto 6</h2>
+<h2>Punto 6 ENLACES</h2>
 <img src="./Public/Images/desarrollo-punto-6.png" alt="punto6">
 
-<h2>Punto 7 y 8</h2>
+<h2>Punto 7 y 8 NAVEGACION</h2>
 <img src="./Public/Images/desarrollo-punto-7y8.png" alt="punto7y8">
 
-<h2>Punto 9</h2>
+<h2>Punto 9 TABLAS</h2>
 <img src="./Public/Images/desarrollo-punto-9.png" alt="punto9">
 
 
